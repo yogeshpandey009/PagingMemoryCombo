@@ -11,7 +11,7 @@ This fiddle does this using [`Ext.ux.data.PagingMemoryProxy`][1]
 
 You can also achieve the same by extending your store with [`Ext.ux.data.PagingStore`][2]
 
-[`Demo`][4]
+[`Demo`][3]
 ----------
 
 
